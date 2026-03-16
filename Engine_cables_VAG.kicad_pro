@@ -247,7 +247,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "bosch_me7_5_t121"
+    ]
   },
   "meta": {
     "filename": "Engine_cables_VAG.kicad_pro",
@@ -395,7 +397,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -412,6 +414,10 @@
     [
       "505ebe56-155a-4675-ab2b-a6d292ed21f2",
       "Root"
+    ],
+    [
+      "89e67595-55b0-4ca8-8a75-298f2f3dc423",
+      "Ignition Doc"
     ]
   ],
   "text_variables": {}
